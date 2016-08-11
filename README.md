@@ -1,2 +1,2 @@
 # ActionRPGPrototype
-Early stages of devlopment for an action RPG
+Early stages of development for an action RPG
